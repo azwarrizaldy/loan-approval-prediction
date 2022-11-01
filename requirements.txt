@@ -1,0 +1,10 @@
+pandas
+psycopg2
+sqlalchemy
+python-dotenv
+matplotlib
+numpy
+pickle5
+datetime
+boto3
+scikit-learn
