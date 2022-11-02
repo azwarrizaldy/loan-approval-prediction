@@ -39,3 +39,7 @@ This project describes how to build a machine learning model for loan approval p
   - datetime
   - boto3
   - scikit-learn
+
+## Source Data
+from Kaggle :
+https://www.kaggle.com/datasets/sethirishabh/finance-company-loan-data
